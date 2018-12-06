@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "flappy",
+"dataUrl": "4960801e16ac1f66da36924ebcc8aa56.unityweb",
+"wasmCodeUrl": "3630866914bcf2648a305e47e469e83d.unityweb",
+"wasmFrameworkUrl": "a28d68411970a3030f04199b35faf9b7.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
